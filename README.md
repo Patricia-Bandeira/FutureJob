@@ -4,7 +4,7 @@ Projeto desenvolvido no evento "Latin Code Week" - A ideia consiste no desenvolv
 __*Telas:*__
 
 ![image](https://user-images.githubusercontent.com/92181116/138363803-8262e635-596e-4d82-b903-3f6b9ad63678.png)
-![image](https://user-images.githubusercontent.com/92181116/138364070-90a59096-f220-42ff-a2b0-09e80a2f4be3.png)
+![image](https://user-images.githubusercontent.com/92181116/138365194-6faf550b-bd0f-43de-8782-f931b79cb687.png)
 ![image](https://user-images.githubusercontent.com/92181116/138364488-c1df25e0-cdfc-4418-a2b1-2a0b0e5b6caf.png)
 ![image](https://user-images.githubusercontent.com/92181116/138364529-308f946d-0214-4501-968a-9244198a5c62.png)
 ![image](https://user-images.githubusercontent.com/92181116/138364558-369b0c01-2fda-4148-a46b-415cfaa1fc33.png)
