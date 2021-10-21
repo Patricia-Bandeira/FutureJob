@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\DS2\Projetos\FutureJob\bin\Debug\FutureJob.exe.config
+C:\Users\55119\Desktop\DS2\Projetos\FutureJob\bin\Debug\FutureJob.exe
+C:\Users\55119\Desktop\DS2\Projetos\FutureJob\bin\Debug\FutureJob.pdb
+C:\Users\55119\Desktop\DS2\Projetos\FutureJob\obj\Debug\FutureJob.csproj.AssemblyReference.cache
+C:\Users\55119\Desktop\DS2\Projetos\FutureJob\obj\Debug\FutureJob.Form1.resources
+C:\Users\55119\Desktop\DS2\Projetos\FutureJob\obj\Debug\FutureJob.Properties.Resources.resources
+C:\Users\55119\Desktop\DS2\Projetos\FutureJob\obj\Debug\FutureJob.csproj.GenerateResource.cache
+C:\Users\55119\Desktop\DS2\Projetos\FutureJob\obj\Debug\FutureJob.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\DS2\Projetos\FutureJob\obj\Debug\FutureJob.exe
+C:\Users\55119\Desktop\DS2\Projetos\FutureJob\obj\Debug\FutureJob.pdb
+C:\Users\55119\Desktop\DS2\Projetos\FutureJob\obj\Debug\FutureJob.cadastro.resources
+C:\Users\55119\Desktop\DS2\Projetos\FutureJob\obj\Debug\FutureJob.home.resources
+C:\Users\55119\Desktop\DS2\Projetos\FutureJob\obj\Debug\FutureJob.chat.resources
+C:\Users\55119\Desktop\DS2\Projetos\FutureJob\obj\Debug\FutureJob.pesquisa.resources
+C:\Users\55119\Desktop\DS2\Projetos\FutureJob\obj\Debug\FutureJob.postar.resources
+C:\Users\55119\Desktop\DS2\Projetos\FutureJob\obj\Debug\FutureJob.usuario.resources
