@@ -1,5 +1,9 @@
 # FutureJob
-Projeto desenvolvido no evento "Latin Code Week" - A ideia consiste no desenvolvivento de um aplicativo que **ajude o jovem a encontrar o seu primeiro emprego** sem experiência profissional
+Projeto desenvolvido no evento "Latin Code Week" - A ideia consiste no desenvolvivento de um aplicativo que **ajude o jovem a encontrar o seu primeiro emprego** sem experiência profissional.
+#
+Meu projeto: Future Job
+
+Objetivo: acolher jovens que estão precisando de emprego e pessoas que estão empregando jovens aprendizes
 #
 __*Telas:*__
 
