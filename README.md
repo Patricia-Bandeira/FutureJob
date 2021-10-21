@@ -11,4 +11,7 @@ __*Telas:*__
 ![image](https://user-images.githubusercontent.com/92181116/138364582-d876bbbb-9d9a-4be5-b23f-15dab6c52a73.png)
 ![image](https://user-images.githubusercontent.com/92181116/138364601-79fb7beb-c874-444d-90e7-fd9bdbea007c.png)
 
+#
+<a href="https://github.com/Patricia-Bandeira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+<a href = "mailto:patriciabandeira.2611@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
