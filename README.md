@@ -1,11 +1,13 @@
 # FutureJob
 Projeto desenvolvido no evento "Latin Code Week" - A ideia consiste no desenvolvivento de um aplicativo que **ajude o jovem a encontrar o seu primeiro emprego** sem experiência profissional.
 #
-Meu projeto: Future Job
+__*Meu projeto:*__ Future Job
 
-Objetivo: acolher jovens que estão precisando de emprego e pessoas que estão empregando jovens aprendizes
+__*Objetivo:*__ acolher jovens que estão precisando de emprego e pessoas que estão empregando jovens aprendizes
 #
 __*Telas:*__
+
+As telas foram 100% feitas por mim! Através do design, eu exportei as imagens prontas para o Visual Studio e adicionei botões invisíveis encima do design! Rotação de tela funciona perfeitamente. 
 
 ![image](https://user-images.githubusercontent.com/92181116/138363803-8262e635-596e-4d82-b903-3f6b9ad63678.png)
 ![image](https://user-images.githubusercontent.com/92181116/138365194-6faf550b-bd0f-43de-8782-f931b79cb687.png)
